@@ -1,0 +1,81 @@
+.bgcolor-nav{
+    background-color: #0B3D0B !important;
+    color: azure !important;
+}
+.navbar-brand{
+    color: azure !important;
+}
+.tog-bg{
+    color: #1a461a !important;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffffff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.text-co{
+    color: azure !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pic-pro{
+    width: 200px;
+    border-radius: 50%;
+    border: 8px solid;
+    border-color: #2E7D32;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.18) !important;
+}
+.name-pro{        
+    font-family: "Playpen Sans Thai", cursive;
+    color: rgb(0, 0, 0) !important;
+}
+.n-name-pro{        
+    font-family: "Playpen Sans Thai", cursive;
+    color: rgb(0, 0, 0) !important;
+    font-size: 5px;
+}
+.head-skill{
+    font-family: "Playpen Sans Thai", cursive;
+    color: rgb(0, 0, 0) !important;
+}
+
+.tem-box{
+    border-radius: 10px;
+    background-color: #2D3A3F !important;
+    color: azure !important;
+    font-family: "Playpen Sans Thai", cursive;
+    font-size: 15px;
+}
+.gal-box{
+    background-color: #2D3A3F !important;
+    color: azure !important;
+    font-family: "Playpen Sans Thai", cursive;
+}
+.tem-text{
+    color: azure !important;
+}
+.tem-text-b{
+    font-family: "Playpen Sans Thai", cursive;
+    color: black !important;
+}
+.round-r{
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.round-l{
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.head-text-fav{
+    text-decoration: none;
+    color : azure !important;
+}
+
+.box-fav:hover{
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2) !important;
+}
+
+.mail{
+    text-decoration: none;
+    color : black !important;
+}
